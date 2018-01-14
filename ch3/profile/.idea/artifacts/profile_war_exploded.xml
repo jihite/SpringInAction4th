@@ -17,6 +17,7 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:4.0.7.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-tx:4.0.7.RELEASE" />
           <element id="library" level="project" name="Maven: com.h2database:h2:1.4.182" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.3" />
         </element>
       </element>
       <element id="directory" name="META-INF">
